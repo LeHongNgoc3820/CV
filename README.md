@@ -5,7 +5,7 @@
  - [Motivation](#Motivation)
  - [Automatically generating an instance of](#DataLoad)
  - [LinePlot](#LinePlot)
-- [Portfolio Management](#Portfolio-Management)
+ - [Portfolio Management](#Portfolio-Management)
  - [Installation](#Installation)
  - [Contact Information](#Contact-Information)
 ## Motivation
